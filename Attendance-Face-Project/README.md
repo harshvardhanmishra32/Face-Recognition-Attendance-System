@@ -51,12 +51,12 @@ The database relies on three tables with relational integrity (Foreign Key Const
 erDiagram
     users {
         int id PK
-        text username UNIQUE
-        text password "SHA-256 Hashed"
+        text username UK
+        text password
     }
     students {
-        int id PK "Auto-Increment"
-        text student_id UNIQUE "User ID e.g. STU101"
+        int id PK
+        text student_id UK
         text name
     }
     attendance {
