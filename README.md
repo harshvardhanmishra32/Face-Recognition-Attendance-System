@@ -81,8 +81,8 @@ erDiagram
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Attendance-Face-Project.git
-   cd Attendance-Face-Project
+   git clone https://github.com/harshvardhanmishra32/Face-Recognition-Attendance-System.git
+   cd Face-Recognition-Attendance-System
    ```
 
 2. **Create and activate a virtual environment**:
