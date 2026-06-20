@@ -1,0 +1,3 @@
+([('attendance_app',
+   '/Users/harshvardhanmishra/Attendance-Face-Project/dist/attendance_app',
+   'EXECUTABLE')],)

@@ -69,6 +69,8 @@ erDiagram
     students ||--o{ attendance : "logs"
 ```
 
+*Note: `PK` = Primary Key, `FK` = Foreign Key, `UK` = Unique Key. The password is stored as a salted SHA-256 hash.*
+
 ---
 
 ## 🚀 Setup & Installation
